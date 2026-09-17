@@ -52,6 +52,5 @@ int main(int argc, char** argv) {
     glClearColor(0.08f, 0.08f, 0.08f, 1.0f);
     glutDisplayFunc(display);
     glutMainLoop();
-
     return 0;
 }
